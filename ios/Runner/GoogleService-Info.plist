@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>264633548497-mo5vbdl8cguq0or01eqp8cbiv6frnhfp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.264633548497-mo5vbdl8cguq0or01eqp8cbiv6frnhfp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>264633548497-j2kssrpnl12jop1u7r1p7vldqefhlk6l.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA4rQ4tO5u0ss4I22A2vuQeSu-8gH7SLIA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>264633548497</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Robin.Do</string>
+	<key>PROJECT_ID</key>
+	<string>peak-life</string>
+	<key>STORAGE_BUCKET</key>
+	<string>peak-life.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:264633548497:ios:2f0c159d4788a672f80ff0</string>
+</dict>
+</plist>
